@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="whitish">#ECF0F1</color>
+    <color name="blackish">#343642</color>
+    <color name="bluish">#013440</color>
+    <color name="darkBluish">#002635</color>
+    <color name="gray">#9c9bb2</color>
+    <color name="purp">#363b7f</color>
+    <color name="litpurp">#7d82cc</color>
+    <color name="darkpurp">#1d1d45</color>
+</resources>
